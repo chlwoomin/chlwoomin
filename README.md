@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=안녕하세요&fontSize=90" />
-
 ## 최우민
 
 
