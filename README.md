@@ -1,7 +1,6 @@
 ## 최우민
 
 ---
-<img width="346" height="112" alt="image" src="https://github.com/user-attachments/assets/c3e1483c-a63f-4d27-a35b-35d542f7804b" />
 
 ### Backend Enginner
 
