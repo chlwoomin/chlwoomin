@@ -12,7 +12,7 @@
 ### Skills
 - Languages:   Python, JAVA
 - Frameworks:  Spring, Django, FastAPI
-- Databases:   PostgreSQL, MySQL, cAdvisor
+- Databases:   PostgreSQL, MySQL
 - Monitoring:  Prometheus, Grafana
 - Development: Docker, AWS, GCP, NGINX
 
